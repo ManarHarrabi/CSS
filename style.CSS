@@ -1,0 +1,16 @@
+nav{display:flex}
+
+li{display:inline-flex;
+margin: 20px; font-size: 20px; font-family:Roboto;}
+
+
+body{background-color:rgb(219, 196, 255); font-family: Roboto;} 
+
+img{margin-right: 50%;}
+
+h1{text-align: center;}
+
+.w1{color: aliceblue;}
+
+
+
